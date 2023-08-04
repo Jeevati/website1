@@ -7,4 +7,6 @@ egg
 khir
 
 pasta
+Beans
+Pizza
 thank you
