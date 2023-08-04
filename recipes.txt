@@ -7,7 +7,10 @@ egg
 khir
 
 pasta
+Beans
+Pizza
 thank you
-
+done my changes
 
 final copy
+
